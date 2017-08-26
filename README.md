@@ -1,4 +1,4 @@
-# PTT-Crawler and Text Clustering
+# PTT Crawler and Text Clustering
 This repository includes three python codes, an appendix text file, and a brief report as an example.
 
 **ptt\_mini.py:** Crawl the main metadata and text contents of the postings of the board specified, and output the result to a json file. The json file includes title, author, posting date, number of comments, main content and comments of each postings.
