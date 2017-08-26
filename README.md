@@ -8,6 +8,6 @@ This repository includes three python codes, an appendix text file, and a brief 
 **ptt\_cloud.py:** Output the number of appearance of each word.
 
 
-**stopea.txt:** Stop words used to analyze the borad EAseries.  
+**stopea.txt:** Stop words used to analyze the board EAseries.  
 
 **PTT Crawling and Text Clustering:** A brief report of text clustring and word cloud representation of board EAseries.
