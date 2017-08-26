@@ -10,4 +10,4 @@ This repository includes three python codes, an appendix text file, and a brief 
 
 **stopea.txt:** Stop words used to analyze the board EAseries.  
 
-**PTT Crawling and Text Clustering:** A brief report of text clustring and word cloud representation of board EAseries.
+**PTT Crawling and Text Clustering.pdf:** A brief report of text clustring and word cloud representation of board EAseries.
